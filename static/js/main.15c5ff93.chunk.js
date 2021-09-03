@@ -1,0 +1,2 @@
+(this["webpackJsonpgabrielrangel.github.io"]=this["webpackJsonpgabrielrangel.github.io"]||[]).push([[0],{11:function(t,e,n){"use strict";n.r(e);var r=n(1),i=n.n(r),c=n(3),o=n.n(c),a=(n(8),n.p,n(9),n(0));var s=function(){return Object(a.jsx)(a.Fragment,{})};o.a.render(Object(a.jsx)(i.a.StrictMode,{children:Object(a.jsx)(s,{})}),document.getElementById("root"))},8:function(t,e,n){},9:function(t,e,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.15c5ff93.chunk.js.map
