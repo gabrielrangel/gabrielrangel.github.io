@@ -11,10 +11,15 @@ const Li = styled.li`
   align-items: center;
   margin: auto;
   
+  * {
+    transition: 1s;
+  }
+
+  
+  
   svg {
     width: 100%!important;
   }
-  
   
   ${ ({hover, highlight})=>{
     switch (hover){
